@@ -10,7 +10,7 @@
     </parent>
     <groupId>edu.dataworld</groupId>
     <artifactId>sample-rest</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>sample-rest</name>
     <description>sample-rest</description>
     <properties>
